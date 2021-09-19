@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Whyzen/React-Slider/static/css/main.9400b90b.chunk.css",
-    "main.js": "/Whyzen/React-Slider/static/js/main.1cae4b76.chunk.js",
-    "main.js.map": "/Whyzen/React-Slider/static/js/main.1cae4b76.chunk.js.map",
-    "runtime-main.js": "/Whyzen/React-Slider/static/js/runtime-main.8a3b835a.js",
-    "runtime-main.js.map": "/Whyzen/React-Slider/static/js/runtime-main.8a3b835a.js.map",
-    "static/js/2.746e972c.chunk.js": "/Whyzen/React-Slider/static/js/2.746e972c.chunk.js",
-    "static/js/2.746e972c.chunk.js.map": "/Whyzen/React-Slider/static/js/2.746e972c.chunk.js.map",
-    "index.html": "/Whyzen/React-Slider/index.html",
-    "static/css/main.9400b90b.chunk.css.map": "/Whyzen/React-Slider/static/css/main.9400b90b.chunk.css.map",
-    "static/js/2.746e972c.chunk.js.LICENSE.txt": "/Whyzen/React-Slider/static/js/2.746e972c.chunk.js.LICENSE.txt",
-    "static/media/left-arrow.da21225b.svg": "/Whyzen/React-Slider/static/media/left-arrow.da21225b.svg",
-    "static/media/right-arrow.d19ce8f8.svg": "/Whyzen/React-Slider/static/media/right-arrow.d19ce8f8.svg"
+    "main.css": "/React-Slider/static/css/main.9400b90b.chunk.css",
+    "main.js": "/React-Slider/static/js/main.e6979213.chunk.js",
+    "main.js.map": "/React-Slider/static/js/main.e6979213.chunk.js.map",
+    "runtime-main.js": "/React-Slider/static/js/runtime-main.5c0be2d0.js",
+    "runtime-main.js.map": "/React-Slider/static/js/runtime-main.5c0be2d0.js.map",
+    "static/js/2.746e972c.chunk.js": "/React-Slider/static/js/2.746e972c.chunk.js",
+    "static/js/2.746e972c.chunk.js.map": "/React-Slider/static/js/2.746e972c.chunk.js.map",
+    "index.html": "/React-Slider/index.html",
+    "static/css/main.9400b90b.chunk.css.map": "/React-Slider/static/css/main.9400b90b.chunk.css.map",
+    "static/js/2.746e972c.chunk.js.LICENSE.txt": "/React-Slider/static/js/2.746e972c.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/React-Slider/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/React-Slider/static/media/right-arrow.d19ce8f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a3b835a.js",
+    "static/js/runtime-main.5c0be2d0.js",
     "static/js/2.746e972c.chunk.js",
     "static/css/main.9400b90b.chunk.css",
-    "static/js/main.1cae4b76.chunk.js"
+    "static/js/main.e6979213.chunk.js"
   ]
 }
